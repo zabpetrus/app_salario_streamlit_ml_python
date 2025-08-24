@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/568823065322822667/f54b12955fae47a7a5cf7ac7640254d3/artifacts
+end_time: 1756001057201
+entry_point_name: ''
+experiment_id: '568823065322822667'
+lifecycle_stage: active
+run_id: f54b12955fae47a7a5cf7ac7640254d3
+run_name: burly-lynx-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756001033697
+status: 3
+tags: []
+user_id: zsant

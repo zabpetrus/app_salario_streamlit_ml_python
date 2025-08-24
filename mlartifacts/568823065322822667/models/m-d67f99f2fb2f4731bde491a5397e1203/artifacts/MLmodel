@@ -1,0 +1,33 @@
+artifact_path: mlflow-artifacts:/568823065322822667/models/m-d67f99f2fb2f4731bde491a5397e1203/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.0
+model_id: m-d67f99f2fb2f4731bde491a5397e1203
+model_size_bytes: 1480566
+model_uuid: m-d67f99f2fb2f4731bde491a5397e1203
+prompts: null
+run_id: f3a37453aa344d54850e1f55dd4ec191
+signature:
+  inputs: '[{"type": "long", "name": "idade", "required": true}, {"type": "string",
+    "name": "genero", "required": true}, {"type": "string", "name": "pcd", "required":
+    true}, {"type": "string", "name": "ufOndeMora", "required": true}, {"type": "string",
+    "name": "cargoAtual", "required": false}, {"type": "string", "name": "nivel",
+    "required": false}, {"type": "string", "name": "tempoDeExperienciaemDados", "required":
+    true}, {"type": "string", "name": "tempodeExperienciaEmTi", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "object", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-24 02:08:41.785651'

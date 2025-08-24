@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/568823065322822667/a028b04858b6428c8906077851711ace/artifacts
+end_time: 1756000656203
+entry_point_name: ''
+experiment_id: '568823065322822667'
+lifecycle_stage: active
+run_id: a028b04858b6428c8906077851711ace
+run_name: sneaky-zebra-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756000654024
+status: 4
+tags: []
+user_id: zsant

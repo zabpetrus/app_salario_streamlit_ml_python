@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/568823065322822667/d6335a72d2184aeca4033f639bd23063/artifacts
+end_time: 1756000832828
+entry_point_name: ''
+experiment_id: '568823065322822667'
+lifecycle_stage: active
+run_id: d6335a72d2184aeca4033f639bd23063
+run_name: capable-owl-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756000831896
+status: 4
+tags: []
+user_id: zsant

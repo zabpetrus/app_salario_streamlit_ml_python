@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/568823065322822667/710feda5f2f44c598b796d70e84109f3/artifacts
+end_time: 1756006591524
+entry_point_name: ''
+experiment_id: '568823065322822667'
+lifecycle_stage: active
+run_id: 710feda5f2f44c598b796d70e84109f3
+run_name: casual-penguin-140
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756006524387
+status: 3
+tags: []
+user_id: zsant

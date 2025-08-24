@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/568823065322822667/734d94d9fdae4c01990d5e8563395692/artifacts
+end_time: 1756002469884
+entry_point_name: ''
+experiment_id: '568823065322822667'
+lifecycle_stage: active
+run_id: 734d94d9fdae4c01990d5e8563395692
+run_name: brawny-horse-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756002453892
+status: 3
+tags: []
+user_id: zsant
